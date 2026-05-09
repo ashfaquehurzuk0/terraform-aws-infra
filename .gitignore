@@ -1,0 +1,9 @@
+# Local .terraform path
+.terraform/
+
+# .tfstate files
+*.tfstate
+*.tfstate.backup
+
+# Sensitive variables
+*.tfvars
